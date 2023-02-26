@@ -1,7 +1,7 @@
 This is a project made using React and React Three Fiber (R3F), <br>
 It's an interactive 3D orrery of the solar system. <br>
 
-[Text 3D Project Preview](https://text3d-r3f.vercel.app/) <br>
+[Orrery Project Preview](https://orrery-r3f.vercel.app/) <br>
 <br>
 
 

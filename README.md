@@ -1,3 +1,11 @@
+This is a project made using React and React Three Fiber (R3F), <br>
+It's an interactive 3D orrery of the solar system. <br>
+
+[Text 3D Project Preview](https://text3d-r3f.vercel.app/) <br>
+<br>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
